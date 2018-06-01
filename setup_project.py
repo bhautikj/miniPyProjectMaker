@@ -42,6 +42,8 @@ dirList = [
 fileList = [
   { "fileSrc" : ["TEMPLATE",".gitignore"],
     "fileDst" : ["TEMPLATE",".gitignore"]},
+  { "fileSrc" : ["TEMPLATE","README.md"],
+    "fileDst" : ["TEMPLATE","README.md"]},
   { "fileSrc" : ["TEMPLATE","TEMPLATE.setup.py"],
     "fileDst" : ["TEMPLATE","setup.py"]},
   { "fileSrc" : ["TEMPLATE","TEMPLATE","__init__.py"],

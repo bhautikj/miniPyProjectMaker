@@ -1,19 +1,19 @@
 # TEMPLATE
 
-##About
+## About
 TEMPLATE package that does something
 
-##Building
+## Building
 ```console
 $ python setup.py
 ```
 
-##Installing
+## Installing
 ```console
 $ pip install .
 ```
 
-##Usage
+## Usage
 ```python
 >>> import TEMPLATE
 >> TEMPLATE.DummySpit()
@@ -23,7 +23,7 @@ $ pip install .
 'BLARGH_BASE'
 ```
 
-##Runing tests:
+## Runing tests:
 
 ```console
 $ python setup.py test
@@ -45,3 +45,5 @@ Ran 2 tests in 0.000s
 
 OK
 ```
+
+^`Built using [miniPyProjectMaker](https://github.com/bhautikj/miniPyProjectMaker)`^
