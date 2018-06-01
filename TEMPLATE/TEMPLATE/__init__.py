@@ -4,4 +4,4 @@ def DummySpit():
   return "BLARGH"
 
 def DummySpitBase():
-  return TEMPLATE.base.DummySpit()
+  return TEMPLATE.core.base.DummySpit()
