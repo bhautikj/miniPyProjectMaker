@@ -32,7 +32,7 @@ foo/foo/tests/test_base.py
 I've included a couple of functions to get you started - `foo/foo/__init__.py` contains a dummy function to return a string:
 ```python
 >>> import foo
->> foo.DummySpit()
+>>> foo.DummySpit()
 'BLARGH'
 ```
 
