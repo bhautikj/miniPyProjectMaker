@@ -21,14 +21,12 @@ $ python setup_project.py --name foo
 ```
 foo/setup.py
 foo/.gitignore
-foo/foo
-foo/foo/core
+foo/README.md
+foo/foo/__init__.py
 foo/foo/core/__init__.py
 foo/foo/core/base.py
-foo/foo/tests
 foo/foo/tests/__init__.py
 foo/foo/tests/test_base.py
-foo/foo/__init__.py
 ```
 
 I've included a couple of functions to get you started - `foo/foo/__init__.py` contains a dummy function to return a string:
