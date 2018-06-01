@@ -3,11 +3,6 @@
 ## About
 TEMPLATE package that does something
 
-## Building
-```console
-$ python setup.py
-```
-
 ## Installing
 ```console
 $ pip install .
